@@ -8,7 +8,7 @@ A comprehensive strategic framework for enterprise Claude AI evaluation, featuri
 
 > **The definitive strategic guide for enterprise Claude AI evaluation, implementation, and optimization.**
 
-Created by [**Romar Johnson**](https://github.com/romarjohnson) - *AI Strategy Consultant / Prompt Engineer*
+Created by [**Romar Johnson**](https://github.com/thisis-romar) - *AI Strategy Consultant / Prompt Engineer*
 
 ---
 
