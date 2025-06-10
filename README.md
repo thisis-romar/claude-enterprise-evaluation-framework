@@ -173,7 +173,6 @@ Stay ahead of enterprise AI developments with our curated newsletter:
 
 - **📧 Email**: [Contact via GitHub Issues](https://github.com/romarjohnson/claude-enterprise-handbook/issues)
 - **💼 LinkedIn**: [Professional Profile](#) *(To be updated)*
-- **🐦 Twitter**: [@RomarStrategy](#) *(To be updated)*
 
 ### **🎯 Enterprise Consulting**
 Available for strategic consulting on enterprise AI adoption, platform evaluation, and implementation planning.
