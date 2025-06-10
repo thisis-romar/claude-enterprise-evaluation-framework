@@ -1,5 +1,4 @@
-# claude-enterprise-evaluation-framework
-A comprehensive strategic framework for enterprise Claude AI evaluation, featuring pricing analysis, security assessment, implementation planning, and ROI optimization tools for enterprise decision-makers.
+# Claude AI Enterprise Handbook
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-CC--BY--SA-green.svg)
@@ -8,7 +7,7 @@ A comprehensive strategic framework for enterprise Claude AI evaluation, featuri
 
 > **The definitive strategic guide for enterprise Claude AI evaluation, implementation, and optimization.**
 
-Created by [**Romar Johnson**](https://github.com/thisis-romar) - *AI Strategy Consultant / Prompt Engineer*
+Created by [**Romar Johnson**](https://github.com/thisis-romar) - *Prompt Engineer / AI Strategy Consultant*
 
 ---
 
@@ -28,19 +27,19 @@ This comprehensive handbook provides enterprise decision-makers with data-driven
 ## 🚀 **Quick Start**
 
 ### **For Enterprise Decision-Makers**
-→ Jump to [Chapter 1: Pricing Analysis](./claude-enterprise-handbook.md#1-claude-pricing-ecosystem-and-user-journey-analysis)  
-→ Review [Strategic Decision Framework](./claude-enterprise-handbook.md#14-strategic-decision-framework)  
-→ Assess [ROI Calculation Framework](./claude-enterprise-handbook.md#15-cost-optimization-strategies)
+→ Jump to [Chapter 1: Pricing Analysis](./chapters/01-pricing-analysis.md)  
+→ Review [Chapter 7: Implementation Guide](./chapters/07-implementation-guide.md)  
+→ Assess [Chapter 8: Strategic Recommendations](./chapters/08-conclusions.md)
 
 ### **For Technical Teams**
-→ Explore [Technical Architecture](./claude-enterprise-handbook.md#2-technical-architecture-context-windows-and-model-capabilities)  
-→ Understand [Claude Code Integration](./claude-enterprise-handbook.md#3-claude-code-terminal-based-development-integration)  
-→ Review [Security Framework](./claude-enterprise-handbook.md#4-enterprise-security-framework-sso-scim-and-audit-controls)
+→ Explore [Chapter 2: Technical Architecture](./chapters/02-technical-architecture.md)  
+→ Understand [Chapter 3: Claude Code Integration](./chapters/03-claude-code.md)  
+→ Review [Chapter 5: Development Workflows](./chapters/05-development-workflows.md)
 
 ### **For Security Professionals**
-→ Analyze [Enterprise Security Controls](./claude-enterprise-handbook.md#4-enterprise-security-framework-sso-scim-and-audit-controls)  
-→ Study [Zero Trust Implementation](./claude-enterprise-handbook.md#52-zero-trust-architecture-implementation)  
-→ Examine [Audit and Compliance](./claude-enterprise-handbook.md#43-audit-logging-and-compliance-monitoring)
+→ Analyze [Chapter 4: Enterprise Security Framework](./chapters/04-enterprise-security.md)  
+→ Study [Chapter 5: DevSecOps Integration](./chapters/05-development-workflows.md)  
+→ Examine [Chapter 8: Strategic Recommendations](./chapters/08-conclusions.md)
 
 ---
 
@@ -94,22 +93,34 @@ This comprehensive handbook provides enterprise decision-makers with data-driven
 ## 🗂️ **Repository Structure**
 
 ```
-claude-enterprise-handbook/
+claude-enterprise-evaluation-framework/
 ├── 📄 README.md                          ← You are here
-├── 📖 claude-enterprise-handbook.md      ← Main handbook document
-├── 📝 CHANGELOG.md                       ← Version history
-├── 👥 CONTRIBUTORS.md                    ← Community recognition
-├── 📜 LICENSE                            ← CC-BY-SA 4.0
-├── 🔒 SECURITY.md                        ← Security policy
+├── 📁 chapters/                          ← Individual chapter files
+│   ├── 📊 01-pricing-analysis.md         ← Complete pricing strategy analysis
+│   ├── ⚙️ 02-technical-architecture.md   ← Model capabilities & context windows
+│   ├── 💻 03-claude-code.md              ← Development tool integration
+│   ├── 🔒 04-enterprise-security.md      ← SSO, SCIM, audit controls
+│   ├── 🔄 05-development-workflows.md    ← DevSecOps integration
+│   ├── ⚔️ 06-competitive-analysis.md     ← Claude vs. alternatives
+│   ├── 🚀 07-implementation-guide.md     ← Deployment strategies
+│   └── 📋 08-conclusions.md              ← Strategic recommendations
 ├── 📁 assets/                            ← Screenshots, diagrams
 │   └── claude-free-tier-limitation-screenshot.png
+├── 📁 print-versions/                    ← Auto-generated chapter PDFs
+│   ├── 01-pricing-analysis.pdf
+│   ├── 04-enterprise-security.pdf
+│   └── complete-framework.pdf
+├── 📁 templates/                         ← Implementation tools
+│   ├── roi-calculator.xlsx
+│   ├── pilot-program-template.md
+│   └── security-checklist.md
 ├── 📁 .github/                           ← GitHub templates
 │   ├── ISSUE_TEMPLATE.md
 │   └── PULL_REQUEST_TEMPLATE.md
-└── 📁 templates/                         ← Implementation tools
-    ├── roi-calculator.xlsx
-    ├── pilot-program-template.md
-    └── security-checklist.md
+├── 📝 CHANGELOG.md                       ← Version history
+├── 👥 CONTRIBUTORS.md                    ← Community recognition
+├── 📜 LICENSE                            ← CC-BY-SA 4.0
+└── 🔒 SECURITY.md                        ← Security policy
 ```
 
 ---
@@ -228,15 +239,16 @@ This handbook is licensed under [**Creative Commons Attribution-ShareAlike 4.0 I
 
 ## 🚀 **Get Started Now**
 
-### **📖 Read the Full Handbook**
-**→ [Claude AI Enterprise Handbook](./claude-enterprise-handbook.md)**
+### **📖 Read Individual Chapters**
+**→ [Chapter 1: Pricing Analysis](./chapters/01-pricing-analysis.md)** - Complete tier breakdown and ROI frameworks  
+**→ [Chapter 4: Enterprise Security](./chapters/04-enterprise-security.md)** - SSO, SCIM, audit controls  
+**→ [Chapter 7: Implementation Guide](./chapters/07-implementation-guide.md)** - Deployment strategies  
 
-### **🎯 Quick Access Links**
-- [Executive Summary](./claude-enterprise-handbook.md#-about-this-handbook)
-- [Pricing Analysis](./claude-enterprise-handbook.md#1-claude-pricing-ecosystem-and-user-journey-analysis)  
-- [Security Framework](./claude-enterprise-handbook.md#4-enterprise-security-framework-sso-scim-and-audit-controls)
-- [Implementation Guide](./claude-enterprise-handbook.md#7-strategic-implementation-guide)
-- [Strategic Recommendations](./claude-enterprise-handbook.md#8-conclusions-and-recommendations)
+### **🎯 Quick Access by Role**
+- **CFO/Finance Teams**: [Pricing Analysis](./chapters/01-pricing-analysis.md) + [ROI Frameworks](./templates/roi-calculator.xlsx)
+- **CISO/Security Teams**: [Security Framework](./chapters/04-enterprise-security.md) + [Security Checklist](./templates/security-checklist.md)  
+- **CTO/Technical Teams**: [Technical Architecture](./chapters/02-technical-architecture.md) + [Claude Code](./chapters/03-claude-code.md)
+- **Strategy Teams**: [Competitive Analysis](./chapters/06-competitive-analysis.md) + [Implementation Guide](./chapters/07-implementation-guide.md)
 
 ---
 
